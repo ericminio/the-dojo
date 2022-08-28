@@ -1,14 +1,16 @@
-# the-dojos
+# the-dojo
+
+A good developer is always learning
 
 45 minutes episodes of coding dojos
 
-# Season 1: Muscle memory
+# Season 1
 
-- S1E1: First moves. Starting the same kata 3 times, going farther each time by becoming better with the tools used.
+- S1E1: Reality check. Mission: 45 minutes to expose on a web page access to prime factors decomposition of a number in range 1..2022
 
-- S1E2: No user no product. Exposing the same feature 3 times via web page
+- S1E2: 
 
-- S1E3: Outside-in. Start over 3 times from scratch and target a market segment
+- S1E3: 
 
 - S1E4: 
 
